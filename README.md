@@ -81,7 +81,7 @@ https://portfolio-shankar-beryl.vercel.app/
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Doobieshankar/Doobieshankar/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Doobieshankar/Doobieshankar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
