@@ -96,11 +96,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doobieshankar&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
 
 </p>
 
