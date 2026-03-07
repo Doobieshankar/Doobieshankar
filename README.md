@@ -22,7 +22,7 @@
 
 🚀 I am currently **open to Backend Developer / Full Stack Developer opportunities**.
 
-If you have an opportunity or collaboration, feel free to connect with me on <a style="color:#ffffff;" href="https://www.linkedin.com/in/shankar-d-ba0528236/">**LinkedIn**</a>.
+If you have an opportunity or collaboration, feel free to connect with me on <a href="https://www.linkedin.com/in/shankar-d-ba0528236/">**LinkedIn**</a>.
 
 ---
 
