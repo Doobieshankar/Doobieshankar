@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shankar</h1>
-<h3 align="center">Full Stack Developer | MERN & Django | Backend Systems</h3>
+<h1 align="center">Shankar</h1>
+<h3 align="center">Backend Developer • API Architect • System Builder</h3>
 
 <p align="center">
 <a href="https://portfolio-shankar-beryl.vercel.app/">Portfolio</a> •
@@ -8,81 +8,94 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-- 💻 Full Stack Developer from **India**
-- ⚡ Specialized in **MERN Stack & Django REST Framework**
-- 🧠 Interested in **Backend Architecture & Scalable APIs**
-- 🚀 Currently building **production-ready backend projects**
-- 🌱 Learning **System Design & Cloud**
+* Backend focused **Full Stack Developer**
+* Passionate about **API Design & Scalable Systems**
+* Strong interest in **Data-Driven Applications**
+* Building **Production Ready Backend Projects**
+* Currently learning **System Design & Cloud Architecture**
 
 ---
 
-# 🌐 Portfolio
+# Portfolio
 
-**Live Portfolio:**  
+**Live Website**
+
 https://portfolio-shankar-beryl.vercel.app/
 
 ---
 
-# 🧰 Tech Stack
+# Core Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+### Backend Engineering
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vue.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+### Frontend Development
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwind-css)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doobieshankar&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=Doobieshankar&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doobieshankar&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# Current Focus
 
-![Snake animation](https://raw.githubusercontent.com/Doobieshankar/Doobieshankar/output/github-contribution-grid-snake.svg)
+* Scalable **Django REST APIs**
+* **E-commerce Backend Architecture**
+* **System Design**
+* **Database Performance Optimization**
+* **MS SQL Server & PostgreSQL**
 
 ---
 
-⭐ From **Shankar**
+<p align="center">
+Building reliable backend systems ⚙️
+</p>
