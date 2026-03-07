@@ -79,7 +79,7 @@ https://portfolio-shankar-beryl.vercel.app/
 
 ### 🤖 Data Science & Machine Learning
 
-<p align="center">
+<p style="display: flex; gap: 100px;">
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/></a>
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/></a>
@@ -105,9 +105,9 @@ https://portfolio-shankar-beryl.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
 
 </p>
 
