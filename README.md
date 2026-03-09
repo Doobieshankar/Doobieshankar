@@ -8,6 +8,10 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Doobieshankar&label=Profile%20views&color=0e75b6&style=flat" alt="sivachan03" /> </p>
+
+---
+
 # About Me
 
 * 💻 Backend Focused **Full Stack Developer**
