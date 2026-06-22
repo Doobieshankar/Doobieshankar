@@ -1,160 +1,246 @@
-<h1 align="center">Shankar</h1>
-<h3 align="center">Backend Developer | Django REST | Node.js | API Development</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://portfolio-shankar-beryl.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/shankar-d-ba0528236/">LinkedIn</a>
-</p>
+```
+ ____  _   _    _    _   _ _  __    _    ____
+/ ___|| | | |  / \  | \ | | |/ /   / \  |  _ \
+\___ \| |_| | / _ \ |  \| | ' /   / _ \ | |_) |
+ ___) |  _  |/ ___ \| |\  | . \  / ___ \|  _ <
+|____/|_| |_/_/   \_\_| \_|_|\_\/_/   \_\_| \_\
 
----
+          Full Stack Developer · Tiruppur, India
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Doobieshankar&label=Profile%20views&color=0e75b6&style=flat" alt="sivachan03" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Doobieshankar&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Doobieshankar)
+[![Portfolio](https://img.shields.io/badge/↗_Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=a78bfa)](https://portfolio-shankar-beryl.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/shankar-d-ba0528236/)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=googledrive&logoColor=34d399)](https://drive.google.com/file/d/1hqlkV9GQEgE4INcLcDYcOyau2w6MH1OP/view)
+![Status](https://img.shields.io/badge/●_Employed_@_Gotoz-22c55e?style=flat-square&labelColor=0d1117)
 
----
-
-# About Me
-
-* 💻 Backend Focused **Full Stack Developer**
-* 🎓 **Fresher actively seeking a Backend / Full Stack Developer role**
-* ⚙️ Passionate about **API Design, Backend Architecture & Databases**
-* 🚀 Building **Production Ready Backend Projects using Django & Node.js**
-* 📚 Currently learning **System Design, Cloud & Scalable Systems**
+</div>
 
 ---
 
-# Open To Work
+## `$ whoami`
 
-🚀 I am currently **open to Backend Developer / Full Stack Developer opportunities**.
-
-If you have an opportunity or collaboration, feel free to connect with me on <a href="https://www.linkedin.com/in/shankar-d-ba0528236/">**LinkedIn**</a>.
-
----
-
-# Portfolio
-
-**Live Website**
-
-https://portfolio-shankar-beryl.vercel.app/
-
----
-
-<h2 align="center">⚙️ Tech Stack</h2>
+```json
+{
+  "name"        : "Shankar D",
+  "location"    : "Tiruppur, Tamil Nadu, India",
+  "current_role": "Full Stack Developer @ Gotoz (2026 → Present)",
+  "education"   : "B.Sc Computer Science — Govt. Arts & Science College, Ooty (2019–2022)",
+  "prev_role"   : "Technical Trainer @ CADD Centre, Tiruppur (2023–2026)",
+  "trained"     : "30+ students in Python, Java & Data Analytics",
+  "languages"   : ["Tamil (Native)", "English (Professional)", "Japanese (Beginner)"],
+  "passion"     : "AI Automation · Scalable APIs · RAG Systems · LLM Pipelines"
+}
+```
 
 ---
 
-### 💻 Languages
+## `$ cat experience.log`
 
-<p align="center">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" style="margin:50px"/></a>
-</p>
+```
+[2026 → NOW]  Full Stack Developer · Gotoz, Tiruppur
+              ├─ Building an AI Automation Platform (n8n-based)
+              ├─ RAG backend with ChromaDB · LLM integrations
+              ├─ React frontend — light/dark UI, workflow dashboards
+              ├─ Dockerized full stack deployment (frontend + backend)
+              ├─ Email-triggered debug chat on workflow failures
+              ├─ Error log extraction from n8n execution pipelines
+              └─ Working with: n8n · Python · React · Docker · ChromaDB · LLMs
 
----
+[2023 → 2026] Technical Trainer · CADD Centre, Tiruppur
+              ├─ Trained 30+ students in Python, Java, Data Analytics
+              ├─ Improved student project completion rates by 30%
+              └─ Promoted emerging technologies to new learners
 
-### 🎨 Frontend Development
-
-<p align="center">
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="45" style="margin:50px"/></a>
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" style="margin:50px"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" style="margin:50px"/></a>
-</p>
+[2019 → 2022] B.Sc Computer Science
+              └─ Govt. Arts and Science College, Ooty · CGPA: 7.1
+```
 
 ---
 
-### ⚙️ Backend Development
+## `$ ls ./projects`
 
-<p align="center">
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="45" style="margin:50px"/></a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Automation Platform** *(Gotoz — Production)*
+```
+Stack  → n8n · Python · React · Docker
+         ChromaDB · LLMs · RAG · FastAPI
+Status → Active Development
+```
+Enterprise AI automation platform with visual workflow builder, RAG-powered chat, LLM integrations, Docker deployment, and real-time error debugging via email-triggered chat interface.
+
+</td>
+<td width="50%">
+
+**📱 Instagram Reel Auto-Poster** *(Personal)*
+```
+Stack  → Ollama · ComfyUI · Coqui TTS
+         MoviePy · n8n · Cloudflare
+         Instagram Graph API
+Status → Live (local, CPU-only)
+```
+Fully local AI pipeline — LLM writes scripts, SD generates images, TTS voices it, MoviePy renders 1080×1920 video, auto-posts to Instagram. Zero cloud APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛒 React + Django E-Commerce**
+```
+Stack  → Django REST · React · Redux
+         ShadCN UI · SQL · JWT Auth
+Status → In Progress
+```
+Full-stack app with DRF backend, Redux state management, authentication, and persistent sessions.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Doobieshankar/react-vite-with-python)
+
+</td>
+<td width="50%">
+
+**🛍️ MERN E-Commerce Platform**
+```
+Stack  → React · Node.js · Express
+         MongoDB · Stripe Payments
+Status → In Progress
+```
+Full e-commerce platform with product catalog, shopping cart, admin panel, and Stripe payments.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Doobieshankar/Ecommerce-MERN-JVL)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌐 3D Portfolio with Three.js**
+```
+Stack  → React · Three.js · EmailJS
+         Tailwind CSS · GitHub Pages
+Status → Live
+```
+Interactive 3D portfolio with animated scenes and integrated contact form via EmailJS.
+
+[![Live](https://img.shields.io/badge/View_Live-0d1117?style=flat-square&logo=github&logoColor=a78bfa)](https://doobieshankar.github.io/portfolio/)
+
+</td>
+<td width="50%">
+
+**☁️ AWS Static Website Hosting**
+```
+Stack  → S3 · Route 53 · CloudFront
+         Freenom · SSL Certificate
+Status → Deployed
+```
+Production-grade static hosting with CDN, custom domain, and full SSL setup.
+
+[![Docs](https://img.shields.io/badge/View_Docs-0d1117?style=flat-square&logo=googledrive&logoColor=fbbf24)](https://drive.google.com/drive/folders/1WRgXb3HPDaS0NzZ46B729-XSHcZr6w-W)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗄️ Databases
+## `$ cat tech_stack.json`
 
-<p align="center">
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="45" style="margin:50px"/></a>
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="45" style="margin:50px"/></a>
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=fbbf24)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f97316)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=64748b)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=64748b)
 
-### 🤖 Data Science & Machine Learning
+**Backend**
 
-<p align="center">
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" style="margin:50px"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="45" style="margin:50px"/></a>
-</p>
+![Django REST](https://img.shields.io/badge/Django_REST-0d1117?style=flat-square&logo=django&logoColor=34d399)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=94a3b8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8)
 
----
+**Frontend**
 
-### 🛠️ Tools & Platforms
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=34d399)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=a78bfa)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=e2e8f0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=a78bfa)
 
-<p align="center">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45" style="margin:50px"/></a>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" style="margin:50px"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="45" style="margin:50px"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" style="margin:50px"/></a>
-<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="45" style="margin:50px"/></a>
-</p>
+**Databases**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=f97316)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=34d399)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=f97316)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ef4444)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
 
-# GitHub Analytics
+**AI & Automation**
 
-<p align="center">
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=f97316)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=e2e8f0)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=34d399)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=34d399)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight"/>
+**Cloud & DevOps**
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Doobieshankar&theme=tokyonight"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doobieshankar&theme=tokyo-night"/>
-
-</p>
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=fbbf24)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f97316)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fbbf24)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e2e8f0)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=fbbf24)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=f97316)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=a78bfa)
 
 ---
 
-# Current Focus
+## `$ cat focus.txt`
 
-* Scalable **Django REST APIs**
-* **E-commerce Backend Architecture**
-* **System Design**
-* **Database Performance Optimization**
-* **MS SQL Server & PostgreSQL**
+```
+▸ AI Automation Platform ············· n8n workflows, RAG, LLM integrations @ Gotoz
+▸ RAG Systems ························ ChromaDB, vector search, context-aware chat
+▸ Scalable Django REST APIs ·········· auth, caching, rate limiting, DRF best practices
+▸ MERN & Django E-commerce ··········· full lifecycle: catalog, cart, payments, orders
+▸ System Design ······················ distributed systems, load balancing, CAP theorem
+▸ Database Performance ··············· indexing, query optimization, MS SQL & PostgreSQL
+▸ Local AI Pipelines ················· Ollama, ComfyUI, Coqui TTS, MoviePy automation
+```
 
 ---
 
-<p align="center">
-Building reliable backend systems ⚙️
-</p>
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doobieshankar&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=21262d&title_color=a78bfa&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doobieshankar&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=21262d&title_color=a78bfa&text_color=94a3b8&langs_count=8" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Doobieshankar&theme=tokyonight&background=0d1117&border=21262d&ring=a78bfa&fire=38bdf8&currStreakLabel=34d399&sideLabels=94a3b8&dates=475569" width="720"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doobieshankar&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=38bdf8&point=34d399" width="720"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*From Tiruppur, building things that scale ⚙️*
+
+[![Portfolio](https://img.shields.io/badge/↗_Portfolio-7c3aed?style=for-the-badge)](https://portfolio-shankar-beryl.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-d-ba0528236/)
+[![Resume](https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1hqlkV9GQEgE4INcLcDYcOyau2w6MH1OP/view)
+
+</div>
