@@ -1,14 +1,6 @@
 <div align="center">
 
-```
- ____  _   _    _    _   _ _  __    _    ____
-/ ___|| | | |  / \  | \ | | |/ /   / \  |  _ \
-\___ \| |_| | / _ \ |  \| | ' /   / _ \ | |_) |
- ___) |  _  |/ ___ \| |\  | . \  / ___ \|  _ <
-|____/|_| |_/_/   \_\_| \_|_|\_\/_/   \_\_| \_\
-
-          Full Stack Developer · Tiruppur, India
-```
+<img src="./header.svg" alt="Shankar D — Full Stack Developer" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Doobieshankar&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Doobieshankar)
 [![Portfolio](https://img.shields.io/badge/↗_Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=a78bfa)](https://portfolio-shankar-beryl.vercel.app/)
