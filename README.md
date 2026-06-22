@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Shankar D — Full Stack Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Doobieshankar/Doobieshankar/main/header.svg" alt="Shankar D — Full Stack Developer" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Doobieshankar&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Doobieshankar)
 [![Portfolio](https://img.shields.io/badge/↗_Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=a78bfa)](https://portfolio-shankar-beryl.vercel.app/)
