@@ -27,11 +27,301 @@
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
-
-  <!-- background -->
   <rect width="860" height="160" fill="#08080d" rx="12"/>
-
-  <!-- subtle grid dots instead of lines -->
+  <!-- matrix rain -->
+  <text x="9" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">∆<animate attributeName="y" from="-64" to="180" dur="4.75s" begin="4.65s" repeatCount="indefinite"/></text>
+<text x="9" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">ア<animate attributeName="y" from="-48" to="180" dur="4.75s" begin="4.65s" repeatCount="indefinite"/></text>
+<text x="9" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">ウ<animate attributeName="y" from="-32" to="180" dur="4.75s" begin="4.65s" repeatCount="indefinite"/></text>
+<text x="9" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">Ω<animate attributeName="y" from="-16" to="180" dur="4.75s" begin="4.65s" repeatCount="indefinite"/></text>
+<text x="9" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">D<animate attributeName="y" from="-64" to="180" dur="4.75s" begin="4.65s" repeatCount="indefinite"/></text>
+<text x="28" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">2<animate attributeName="y" from="-64" to="180" dur="4.05s" begin="4.05s" repeatCount="indefinite"/></text>
+<text x="28" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">|<animate attributeName="y" from="-48" to="180" dur="4.05s" begin="4.05s" repeatCount="indefinite"/></text>
+<text x="28" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">ク<animate attributeName="y" from="-32" to="180" dur="4.05s" begin="4.05s" repeatCount="indefinite"/></text>
+<text x="28" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">エ<animate attributeName="y" from="-16" to="180" dur="4.05s" begin="4.05s" repeatCount="indefinite"/></text>
+<text x="28" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">7<animate attributeName="y" from="-64" to="180" dur="4.05s" begin="4.05s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">8<animate attributeName="y" from="-128" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">B<animate attributeName="y" from="-112" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">E<animate attributeName="y" from="-96" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">B<animate attributeName="y" from="-80" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">2<animate attributeName="y" from="-64" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">コ<animate attributeName="y" from="-48" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">サ<animate attributeName="y" from="-32" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">B<animate attributeName="y" from="-16" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="47" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">D<animate attributeName="y" from="-128" to="180" dur="3.73s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">><animate attributeName="y" from="-128" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle"><<animate attributeName="y" from="-112" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">|<animate attributeName="y" from="-96" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">[<animate attributeName="y" from="-80" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">5<animate attributeName="y" from="-64" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">ケ<animate attributeName="y" from="-48" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">カ<animate attributeName="y" from="-32" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">2<animate attributeName="y" from="-16" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="66" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">E<animate attributeName="y" from="-128" to="180" dur="3.61s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">{<animate attributeName="y" from="-80" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">F<animate attributeName="y" from="-64" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">[<animate attributeName="y" from="-48" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle"><<animate attributeName="y" from="-32" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">]<animate attributeName="y" from="-16" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="85" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">><animate attributeName="y" from="-80" to="180" dur="4.11s" begin="0.4s" repeatCount="indefinite"/></text>
+<text x="104" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">セ<animate attributeName="y" from="-64" to="180" dur="4.82s" begin="3.7s" repeatCount="indefinite"/></text>
+<text x="104" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">カ<animate attributeName="y" from="-48" to="180" dur="4.82s" begin="3.7s" repeatCount="indefinite"/></text>
+<text x="104" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">サ<animate attributeName="y" from="-32" to="180" dur="4.82s" begin="3.7s" repeatCount="indefinite"/></text>
+<text x="104" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">セ<animate attributeName="y" from="-16" to="180" dur="4.82s" begin="3.7s" repeatCount="indefinite"/></text>
+<text x="104" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">2<animate attributeName="y" from="-64" to="180" dur="4.82s" begin="3.7s" repeatCount="indefinite"/></text>
+<text x="123" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">A<animate attributeName="y" from="-64" to="180" dur="3.76s" begin="3.87s" repeatCount="indefinite"/></text>
+<text x="123" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">シ<animate attributeName="y" from="-48" to="180" dur="3.76s" begin="3.87s" repeatCount="indefinite"/></text>
+<text x="123" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">3<animate attributeName="y" from="-32" to="180" dur="3.76s" begin="3.87s" repeatCount="indefinite"/></text>
+<text x="123" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">/<animate attributeName="y" from="-16" to="180" dur="3.76s" begin="3.87s" repeatCount="indefinite"/></text>
+<text x="123" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">ク<animate attributeName="y" from="-64" to="180" dur="3.76s" begin="3.87s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">><animate attributeName="y" from="-128" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">ウ<animate attributeName="y" from="-112" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">ク<animate attributeName="y" from="-96" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">ケ<animate attributeName="y" from="-80" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">Ω<animate attributeName="y" from="-64" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">0<animate attributeName="y" from="-48" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">0<animate attributeName="y" from="-32" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">{<animate attributeName="y" from="-16" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="142" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">8<animate attributeName="y" from="-128" to="180" dur="3.04s" begin="4.46s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">8<animate attributeName="y" from="-80" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">1<animate attributeName="y" from="-64" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">E<animate attributeName="y" from="-48" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">5<animate attributeName="y" from="-32" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">シ<animate attributeName="y" from="-16" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="161" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">[<animate attributeName="y" from="-80" to="180" dur="4.02s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">カ<animate attributeName="y" from="-80" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">Ω<animate attributeName="y" from="-64" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">イ<animate attributeName="y" from="-48" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">B<animate attributeName="y" from="-32" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">><animate attributeName="y" from="-16" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="180" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">9<animate attributeName="y" from="-80" to="180" dur="3.2s" begin="3.85s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">6<animate attributeName="y" from="-96" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">E<animate attributeName="y" from="-80" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">F<animate attributeName="y" from="-64" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">A<animate attributeName="y" from="-48" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">A<animate attributeName="y" from="-32" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">{<animate attributeName="y" from="-16" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="199" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">コ<animate attributeName="y" from="-96" to="180" dur="2.94s" begin="4.98s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">セ<animate attributeName="y" from="-128" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">∑<animate attributeName="y" from="-112" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">イ<animate attributeName="y" from="-96" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">イ<animate attributeName="y" from="-80" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">0<animate attributeName="y" from="-64" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">C<animate attributeName="y" from="-48" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">ク<animate attributeName="y" from="-32" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">Ω<animate attributeName="y" from="-16" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="218" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">コ<animate attributeName="y" from="-128" to="180" dur="3.33s" begin="3.93s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">ア<animate attributeName="y" from="-80" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">サ<animate attributeName="y" from="-64" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">|<animate attributeName="y" from="-48" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">エ<animate attributeName="y" from="-32" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">{<animate attributeName="y" from="-16" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="237" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">6<animate attributeName="y" from="-80" to="180" dur="2.66s" begin="1.43s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">エ<animate attributeName="y" from="-80" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">3<animate attributeName="y" from="-64" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">3<animate attributeName="y" from="-48" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">オ<animate attributeName="y" from="-32" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle"><<animate attributeName="y" from="-16" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="256" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">6<animate attributeName="y" from="-80" to="180" dur="2.87s" begin="1.25s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">6<animate attributeName="y" from="-80" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">∑<animate attributeName="y" from="-64" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">7<animate attributeName="y" from="-48" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">F<animate attributeName="y" from="-32" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">シ<animate attributeName="y" from="-16" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="275" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">|<animate attributeName="y" from="-80" to="180" dur="4.69s" begin="3.4s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">><animate attributeName="y" from="-96" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">ウ<animate attributeName="y" from="-80" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">ス<animate attributeName="y" from="-64" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">C<animate attributeName="y" from="-48" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">サ<animate attributeName="y" from="-32" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">1<animate attributeName="y" from="-16" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="294" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">[<animate attributeName="y" from="-96" to="180" dur="4.75s" begin="0.56s" repeatCount="indefinite"/></text>
+<text x="313" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">}<animate attributeName="y" from="-48" to="180" dur="4.21s" begin="0.18s" repeatCount="indefinite"/></text>
+<text x="313" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">F<animate attributeName="y" from="-32" to="180" dur="4.21s" begin="0.18s" repeatCount="indefinite"/></text>
+<text x="313" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">|<animate attributeName="y" from="-16" to="180" dur="4.21s" begin="0.18s" repeatCount="indefinite"/></text>
+<text x="313" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">ア<animate attributeName="y" from="-48" to="180" dur="4.21s" begin="0.18s" repeatCount="indefinite"/></text>
+<text x="332" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">イ<animate attributeName="y" from="-48" to="180" dur="3.47s" begin="1.08s" repeatCount="indefinite"/></text>
+<text x="332" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">2<animate attributeName="y" from="-32" to="180" dur="3.47s" begin="1.08s" repeatCount="indefinite"/></text>
+<text x="332" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">[<animate attributeName="y" from="-16" to="180" dur="3.47s" begin="1.08s" repeatCount="indefinite"/></text>
+<text x="332" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">{<animate attributeName="y" from="-48" to="180" dur="3.47s" begin="1.08s" repeatCount="indefinite"/></text>
+<text x="351" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">7<animate attributeName="y" from="-64" to="180" dur="2.92s" begin="1.52s" repeatCount="indefinite"/></text>
+<text x="351" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">5<animate attributeName="y" from="-48" to="180" dur="2.92s" begin="1.52s" repeatCount="indefinite"/></text>
+<text x="351" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">]<animate attributeName="y" from="-32" to="180" dur="2.92s" begin="1.52s" repeatCount="indefinite"/></text>
+<text x="351" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">A<animate attributeName="y" from="-16" to="180" dur="2.92s" begin="1.52s" repeatCount="indefinite"/></text>
+<text x="351" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">6<animate attributeName="y" from="-64" to="180" dur="2.92s" begin="1.52s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">0<animate attributeName="y" from="-128" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">コ<animate attributeName="y" from="-112" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">B<animate attributeName="y" from="-96" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">F<animate attributeName="y" from="-80" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle"><<animate attributeName="y" from="-64" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">D<animate attributeName="y" from="-48" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">サ<animate attributeName="y" from="-32" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">/<animate attributeName="y" from="-16" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="370" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">{<animate attributeName="y" from="-128" to="180" dur="4.17s" begin="0.19s" repeatCount="indefinite"/></text>
+<text x="389" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">∑<animate attributeName="y" from="-48" to="180" dur="3.41s" begin="4.93s" repeatCount="indefinite"/></text>
+<text x="389" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">ク<animate attributeName="y" from="-32" to="180" dur="3.41s" begin="4.93s" repeatCount="indefinite"/></text>
+<text x="389" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">4<animate attributeName="y" from="-16" to="180" dur="3.41s" begin="4.93s" repeatCount="indefinite"/></text>
+<text x="389" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">2<animate attributeName="y" from="-48" to="180" dur="3.41s" begin="4.93s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">3<animate attributeName="y" from="-112" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">|<animate attributeName="y" from="-96" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">キ<animate attributeName="y" from="-80" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">|<animate attributeName="y" from="-64" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">セ<animate attributeName="y" from="-48" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">]<animate attributeName="y" from="-32" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle"><<animate attributeName="y" from="-16" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="408" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">F<animate attributeName="y" from="-112" to="180" dur="2.74s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">B<animate attributeName="y" from="-112" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">1<animate attributeName="y" from="-96" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">シ<animate attributeName="y" from="-80" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">|<animate attributeName="y" from="-64" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">B<animate attributeName="y" from="-48" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">ウ<animate attributeName="y" from="-32" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">ウ<animate attributeName="y" from="-16" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="427" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">D<animate attributeName="y" from="-112" to="180" dur="3.31s" begin="1.66s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">∑<animate attributeName="y" from="-128" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">エ<animate attributeName="y" from="-112" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">><animate attributeName="y" from="-96" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">D<animate attributeName="y" from="-80" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">/<animate attributeName="y" from="-64" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">/<animate attributeName="y" from="-48" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">0<animate attributeName="y" from="-32" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">コ<animate attributeName="y" from="-16" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="446" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">2<animate attributeName="y" from="-128" to="180" dur="4.98s" begin="3.25s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">{<animate attributeName="y" from="-112" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">ケ<animate attributeName="y" from="-96" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">キ<animate attributeName="y" from="-80" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">1<animate attributeName="y" from="-64" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">コ<animate attributeName="y" from="-48" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">{<animate attributeName="y" from="-32" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">オ<animate attributeName="y" from="-16" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="465" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">}<animate attributeName="y" from="-112" to="180" dur="2.7s" begin="4.42s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">ア<animate attributeName="y" from="-128" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">エ<animate attributeName="y" from="-112" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">><animate attributeName="y" from="-96" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">8<animate attributeName="y" from="-80" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">6<animate attributeName="y" from="-64" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">キ<animate attributeName="y" from="-48" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">キ<animate attributeName="y" from="-32" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">ア<animate attributeName="y" from="-16" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="484" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">8<animate attributeName="y" from="-128" to="180" dur="4.54s" begin="3.76s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">6<animate attributeName="y" from="-112" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">C<animate attributeName="y" from="-96" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">8<animate attributeName="y" from="-80" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">ア<animate attributeName="y" from="-64" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">A<animate attributeName="y" from="-48" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">∑<animate attributeName="y" from="-32" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">オ<animate attributeName="y" from="-16" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="503" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">∑<animate attributeName="y" from="-112" to="180" dur="4.05s" begin="4.22s" repeatCount="indefinite"/></text>
+<text x="522" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">ク<animate attributeName="y" from="-64" to="180" dur="3.15s" begin="3.91s" repeatCount="indefinite"/></text>
+<text x="522" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">Ω<animate attributeName="y" from="-48" to="180" dur="3.15s" begin="3.91s" repeatCount="indefinite"/></text>
+<text x="522" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">4<animate attributeName="y" from="-32" to="180" dur="3.15s" begin="3.91s" repeatCount="indefinite"/></text>
+<text x="522" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">コ<animate attributeName="y" from="-16" to="180" dur="3.15s" begin="3.91s" repeatCount="indefinite"/></text>
+<text x="522" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">オ<animate attributeName="y" from="-64" to="180" dur="3.15s" begin="3.91s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">]<animate attributeName="y" from="-96" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">∆<animate attributeName="y" from="-80" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">]<animate attributeName="y" from="-64" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">3<animate attributeName="y" from="-48" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">1<animate attributeName="y" from="-32" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">A<animate attributeName="y" from="-16" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="541" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">ウ<animate attributeName="y" from="-96" to="180" dur="4.71s" begin="1.92s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">カ<animate attributeName="y" from="-96" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">5<animate attributeName="y" from="-80" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">イ<animate attributeName="y" from="-64" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">ケ<animate attributeName="y" from="-48" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">コ<animate attributeName="y" from="-32" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">{<animate attributeName="y" from="-16" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="560" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">オ<animate attributeName="y" from="-96" to="180" dur="2.76s" begin="0.28s" repeatCount="indefinite"/></text>
+<text x="579" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">∑<animate attributeName="y" from="-64" to="180" dur="2.55s" begin="4.56s" repeatCount="indefinite"/></text>
+<text x="579" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">8<animate attributeName="y" from="-48" to="180" dur="2.55s" begin="4.56s" repeatCount="indefinite"/></text>
+<text x="579" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">7<animate attributeName="y" from="-32" to="180" dur="2.55s" begin="4.56s" repeatCount="indefinite"/></text>
+<text x="579" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">4<animate attributeName="y" from="-16" to="180" dur="2.55s" begin="4.56s" repeatCount="indefinite"/></text>
+<text x="579" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">Ω<animate attributeName="y" from="-64" to="180" dur="2.55s" begin="4.56s" repeatCount="indefinite"/></text>
+<text x="598" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">><animate attributeName="y" from="-48" to="180" dur="3.49s" begin="1.76s" repeatCount="indefinite"/></text>
+<text x="598" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">B<animate attributeName="y" from="-32" to="180" dur="3.49s" begin="1.76s" repeatCount="indefinite"/></text>
+<text x="598" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">A<animate attributeName="y" from="-16" to="180" dur="3.49s" begin="1.76s" repeatCount="indefinite"/></text>
+<text x="598" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">∆<animate attributeName="y" from="-48" to="180" dur="3.49s" begin="1.76s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">8<animate attributeName="y" from="-80" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">A<animate attributeName="y" from="-64" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">B<animate attributeName="y" from="-48" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">ス<animate attributeName="y" from="-32" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">キ<animate attributeName="y" from="-16" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="617" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">|<animate attributeName="y" from="-80" to="180" dur="4.71s" begin="3.29s" repeatCount="indefinite"/></text>
+<text x="636" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">|<animate attributeName="y" from="-64" to="180" dur="4.73s" begin="3.56s" repeatCount="indefinite"/></text>
+<text x="636" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">}<animate attributeName="y" from="-48" to="180" dur="4.73s" begin="3.56s" repeatCount="indefinite"/></text>
+<text x="636" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">ケ<animate attributeName="y" from="-32" to="180" dur="4.73s" begin="3.56s" repeatCount="indefinite"/></text>
+<text x="636" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">E<animate attributeName="y" from="-16" to="180" dur="4.73s" begin="3.56s" repeatCount="indefinite"/></text>
+<text x="636" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">ソ<animate attributeName="y" from="-64" to="180" dur="4.73s" begin="3.56s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">カ<animate attributeName="y" from="-112" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">ク<animate attributeName="y" from="-96" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">ク<animate attributeName="y" from="-80" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">A<animate attributeName="y" from="-64" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">セ<animate attributeName="y" from="-48" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">イ<animate attributeName="y" from="-32" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">6<animate attributeName="y" from="-16" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="655" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">サ<animate attributeName="y" from="-112" to="180" dur="2.58s" begin="4.85s" repeatCount="indefinite"/></text>
+<text x="674" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">|<animate attributeName="y" from="-48" to="180" dur="4.27s" begin="3.31s" repeatCount="indefinite"/></text>
+<text x="674" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">∆<animate attributeName="y" from="-32" to="180" dur="4.27s" begin="3.31s" repeatCount="indefinite"/></text>
+<text x="674" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">4<animate attributeName="y" from="-16" to="180" dur="4.27s" begin="3.31s" repeatCount="indefinite"/></text>
+<text x="674" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">D<animate attributeName="y" from="-48" to="180" dur="4.27s" begin="3.31s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">シ<animate attributeName="y" from="-112" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">}<animate attributeName="y" from="-96" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">セ<animate attributeName="y" from="-80" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">6<animate attributeName="y" from="-64" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">><animate attributeName="y" from="-48" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">ア<animate attributeName="y" from="-32" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">オ<animate attributeName="y" from="-16" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="693" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">イ<animate attributeName="y" from="-112" to="180" dur="3.34s" begin="0.47s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">ウ<animate attributeName="y" from="-112" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">{<animate attributeName="y" from="-96" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">ア<animate attributeName="y" from="-80" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">ウ<animate attributeName="y" from="-64" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">キ<animate attributeName="y" from="-48" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">ウ<animate attributeName="y" from="-32" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">セ<animate attributeName="y" from="-16" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="712" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">エ<animate attributeName="y" from="-112" to="180" dur="3.57s" begin="1.93s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">6<animate attributeName="y" from="-80" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.09" text-anchor="middle">><animate attributeName="y" from="-64" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">ウ<animate attributeName="y" from="-48" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">∆<animate attributeName="y" from="-32" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.19" text-anchor="middle">}<animate attributeName="y" from="-16" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="731" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">/<animate attributeName="y" from="-80" to="180" dur="3.04s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">[<animate attributeName="y" from="-128" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">ケ<animate attributeName="y" from="-112" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">1<animate attributeName="y" from="-96" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">カ<animate attributeName="y" from="-80" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">Ω<animate attributeName="y" from="-64" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">ク<animate attributeName="y" from="-48" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">カ<animate attributeName="y" from="-32" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle">9<animate attributeName="y" from="-16" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="750" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">ス<animate attributeName="y" from="-128" to="180" dur="4.05s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="769" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">]<animate attributeName="y" from="-48" to="180" dur="3.33s" begin="1.34s" repeatCount="indefinite"/></text>
+<text x="769" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.11" text-anchor="middle">コ<animate attributeName="y" from="-32" to="180" dur="3.33s" begin="1.34s" repeatCount="indefinite"/></text>
+<text x="769" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.17" text-anchor="middle">ス<animate attributeName="y" from="-16" to="180" dur="3.33s" begin="1.34s" repeatCount="indefinite"/></text>
+<text x="769" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">E<animate attributeName="y" from="-48" to="180" dur="3.33s" begin="1.34s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">3<animate attributeName="y" from="-128" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.07" text-anchor="middle">ア<animate attributeName="y" from="-112" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">キ<animate attributeName="y" from="-96" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.12" text-anchor="middle">Ω<animate attributeName="y" from="-80" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">5<animate attributeName="y" from="-64" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.16" text-anchor="middle">イ<animate attributeName="y" from="-48" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">Ω<animate attributeName="y" from="-32" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.21" text-anchor="middle"><<animate attributeName="y" from="-16" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="788" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">オ<animate attributeName="y" from="-128" to="180" dur="2.81s" begin="2.35s" repeatCount="indefinite"/></text>
+<text x="807" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">セ<animate attributeName="y" from="-64" to="180" dur="4.52s" begin="4.35s" repeatCount="indefinite"/></text>
+<text x="807" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">0<animate attributeName="y" from="-48" to="180" dur="4.52s" begin="4.35s" repeatCount="indefinite"/></text>
+<text x="807" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.14" text-anchor="middle">[<animate attributeName="y" from="-32" to="180" dur="4.52s" begin="4.35s" repeatCount="indefinite"/></text>
+<text x="807" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">7<animate attributeName="y" from="-16" to="180" dur="4.52s" begin="4.35s" repeatCount="indefinite"/></text>
+<text x="807" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">2<animate attributeName="y" from="-64" to="180" dur="4.52s" begin="4.35s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.05" text-anchor="middle">∑<animate attributeName="y" from="-112" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.08" text-anchor="middle">8<animate attributeName="y" from="-96" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.1" text-anchor="middle">7<animate attributeName="y" from="-80" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.13" text-anchor="middle">Ω<animate attributeName="y" from="-64" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.15" text-anchor="middle">2<animate attributeName="y" from="-48" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.18" text-anchor="middle">0<animate attributeName="y" from="-32" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#22c55e" opacity="0.2" text-anchor="middle">9<animate attributeName="y" from="-16" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+<text x="826" font-family="'Courier New',monospace" font-size="11" fill="#86efac" opacity="0.55" text-anchor="middle">Ω<animate attributeName="y" from="-112" to="180" dur="3.08s" begin="1.41s" repeatCount="indefinite"/></text>
+  <!-- dark overlay behind name -->
+  <rect x="180" y="28" width="500" height="110" fill="#08080d" opacity="0.75" rx="8"/>
+  <!-- grid dots -->
   <g opacity="0.15">
     <circle cx="215" cy="40" r="1" fill="#475569"/>
     <circle cx="430" cy="40" r="1" fill="#475569"/>
@@ -43,33 +333,22 @@
     <circle cx="430" cy="120" r="1" fill="#475569"/>
     <circle cx="645" cy="120" r="1" fill="#475569"/>
   </g>
-
   <!-- corner accents -->
   <path d="M12 4 L12 20 M4 12 L20 12" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
   <path d="M848 4 L848 20 M852 12 L840 12" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
   <path d="M12 156 L12 140 M4 148 L20 148" stroke="#34d399" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
   <path d="M848 156 L848 140 M852 148 L840 148" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
-
-  <!-- subtle background glow behind text -->
+  <!-- background glow -->
   <ellipse cx="430" cy="85" rx="220" ry="40" fill="#a78bfa" opacity="0.02" filter="url(#softglow)"/>
-
   <!-- main name -->
-  <text x="430" y="92" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="64" font-weight="700" fill="url(#g1)" filter="url(#glow)" letter-spacing="6">
-    SHANKAR
-  </text>
-
-  <!-- gradient underline -->
+  <text x="430" y="92" text-anchor="middle" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="64" font-weight="700" fill="url(#g1)" filter="url(#glow)" letter-spacing="6">SHANKAR</text>
+  <!-- underline -->
   <line x1="260" y1="102" x2="600" y2="102" stroke="url(#underline)" stroke-width="1"/>
-
   <!-- subtitle -->
-  <text x="430" y="126" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#475569" letter-spacing="4">FULL STACK DEVELOPER · TIRUPPUR, INDIA</text>
-
-  <!-- top-left label -->
-  <text x="26" y="28" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="9" fill="#2d3748" letter-spacing="2">// gotoz · 2026</text>
-
-  <!-- top-right label -->
-  <text x="834" y="28" text-anchor="end" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="9" fill="#2d3748" letter-spacing="2">v1.0.0</text>
-
-  <!-- bottom subtle border glow -->
+  <text x="430" y="126" text-anchor="middle" font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="11" fill="#475569" letter-spacing="4">FULL STACK DEVELOPER · TIRUPPUR, INDIA</text>
+  <!-- labels -->
+  <text x="26" y="28" font-family="'SF Mono','Courier New',monospace" font-size="9" fill="#2d3748" letter-spacing="2">// gotoz · 2026</text>
+  <text x="834" y="28" text-anchor="end" font-family="'SF Mono','Courier New',monospace" font-size="9" fill="#2d3748" letter-spacing="2">v1.0.0</text>
+  <!-- bottom border glow -->
   <rect x="0" y="158" width="860" height="2" rx="0" fill="url(#g1)" opacity="0.15"/>
 </svg>
